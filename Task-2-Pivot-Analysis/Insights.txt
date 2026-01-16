@@ -1,0 +1,94 @@
+📊 Pivot Analysis Report (Task 2)
+1. Objective
+
+The objective of this analysis is to summarize sales performance using pivot tables and interactive elements in Excel, and to derive meaningful business insights from a sales dataset.
+
+2. Data Preparation
+
+The dataset was reviewed for missing values.
+
+Non-critical missing values (e.g., Postal Code) were retained without deletion.
+
+Date fields were standardized to YYYY-MM-DD format.
+
+Sales values were formatted as currency.
+
+The dataset was converted into an Excel Table to support dynamic pivot analysis.
+
+✔ This ensures data consistency and pivot reliability.
+
+3. Pivot Table Analysis
+Pivot 1: Sales by Category
+
+A pivot table was created to aggregate total sales by product category.
+
+Categories were sorted from highest to lowest sales.
+
+This pivot clearly identifies the top revenue-generating category.
+
+Business value:
+Helps management understand which product categories drive the majority of revenue.
+
+Pivot 2: Sales by Region and Segment
+
+Sales were analyzed across Region (rows) and Customer Segment (columns).
+
+This allows comparison of regional performance and customer type contribution.
+
+Business value:
+Highlights strong and weak regional–segment combinations for targeted strategy.
+
+4. Interactivity (Slicers)
+
+Slicers were added for:
+
+Region
+
+Category
+
+Segment
+
+Slicers were connected to all pivot tables and the pivot chart.
+
+Business value:
+Enables quick, interactive filtering without rebuilding reports.
+
+5. Visualization
+
+A Pivot Chart (Sales by Category) was added.
+
+The chart updates dynamically based on slicer selections.
+
+Business value:
+Provides an at-a-glance visual comparison of category performance.
+
+6. Limitations
+
+Profit margin analysis was not performed because the dataset does not contain a Profit column.
+
+No assumptions or artificial calculations were introduced.
+
+✔ This is the correct and professional decision.
+
+7. Overall Assessment of Excel Work
+Strengths
+
+Correct use of pivot tables
+
+Proper sorting and aggregation
+
+Clean formatting
+
+Correct use of slicers
+
+No unnecessary or incorrect calculations
+
+Honest handling of missing data and limitations
+
+Minor Improvement Areas
+
+Could optionally add:
+
+A time-based pivot (Sales by Year/Month), if required
+
+Slight alignment polish for report layout (purely cosmetic)
