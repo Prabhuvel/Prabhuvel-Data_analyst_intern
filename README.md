@@ -1,6 +1,6 @@
 # Data Analyst Internship Tasks
 
-This repository contains tasks completed as part of a **Data Analyst Internship**, focusing on data cleaning, pivot table analysis, and business insights using Excel.
+This repository contains tasks completed as part of a **Data Analyst Internship**, focusing on data cleaning, pivot table analysis, SQL querying, and business insights.
 
 ---
 
@@ -45,21 +45,58 @@ Analyze sales data using pivot tables and derive business insights.
 
 ---
 
+### ✅ Task 3 – SQL Basics (Filtering, Sorting & Aggregation)
+**Objective:**  
+Apply foundational SQL concepts to analyze sales data using MySQL.
+
+**Work done:**
+- Filtered data using WHERE clause
+- Sorted records using ORDER BY
+- Performed aggregations using GROUP BY
+- Filtered aggregated results using HAVING
+- Applied BETWEEN and LIKE for conditional queries
+
+**Files:**
+- `task3.sql`
+- `sales_summary.csv`
+- `README.md`
+
+---
+
+### ✅ Task 4 – SQL Joins & Business Analysis
+**Objective:**  
+Use SQL JOIN operations to answer business-oriented questions.
+
+**Work done:**
+- Created logical tables from a denormalized dataset
+- Applied INNER JOIN and LEFT JOIN
+- Performed multi-table joins for analysis
+- Derived business insights from joined data
+
+**Files:**
+- `task4.sql`
+- `joined_output.csv`
+- `insights.txt`
+- `README.md`
+
+---
+
 ## 📊 Key Skills Demonstrated
 - Data cleaning and preparation
-- Pivot table creation and sorting
-- Slicers and interactivity
+- Pivot table analysis and reporting
+- SQL querying and aggregations
+- SQL JOIN operations
 - Business insight generation
-- Professional Excel reporting
-- Data integrity and documentation
+- Data documentation and organization
 
 ---
 
 ## ⚠️ Notes
-- Profit margin analysis was not performed as the dataset did not contain a Profit field.
+- Profit margin analysis was not performed in early Excel tasks due to missing Profit data.
 - Non-critical missing values (e.g., Postal Code) were retained to preserve data accuracy.
 
 ---
 
 ## 📁 Repository Structure
+
 
